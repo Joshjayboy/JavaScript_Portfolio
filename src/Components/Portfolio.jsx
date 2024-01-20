@@ -49,9 +49,9 @@ const projectList = [
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "JavaScript Experience as A Full Stack Developer",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+      "I use JavaScript programming Language to solve problems and come up with new solutions.",
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
 ];
